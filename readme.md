@@ -8,4 +8,8 @@ HTML5 dragleave event works more like mouseout. This plugin was created to repli
 Usage Example
 --------------
 
-$('#myelement').on('dragout',function(event){ // YOUR CODE });
+	$('#myelement').on('dragout',function(event){ 
+
+		// YOUR CODE
+
+	});
